@@ -16,7 +16,8 @@ DEV_TYPE_TO_HA = {
     "ESW01-EU": "outlet",
     "ESW15-USA": "outlet",
     "ESWL01": "switch",
-    "ESWL03": "switch",
+    "ESWL03": "switch",    
+    "ESWD16": "switch",
     "ESO15-TB": "outlet",
 }
 
